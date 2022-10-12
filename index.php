@@ -33,20 +33,77 @@
 		</div><!--right_h-->
 	</header>
 
-	<section class="sidebar">
+	<section class="sidebar display_in">
 		<h3 class="titulo_sidebar display_in">CANAIS RECOMENDADOS</h3>
 		<i class="fa-solid fa-arrow-left display_in fechar_side"></i>
 
 		<div class="perfil_side">
 			<div class="img_perfil display_in"></div>
 			<div class="display_in">
-			<p class="nome_perfil">Usuário</p>
-			<p class="jogo_perfil">JOGO</p>
+			<p class="nome_perfil">Usuario</p>
+			<p class="jogo_perfil">Jogo</p>
 			</div>
 			<div class="ao_vivo display_in"></div>
-			<p class="display_in">7,7 mil</p>
+			<p class="display_in ao_vivo_num">7,7 mil</p>
 		</div><!--perfil_side-->
-	</section>
+
+		<div class="perfil_side">
+			<div class="img_perfil display_in"></div>
+			<div class="display_in">
+			<p class="nome_perfil">Usuario</p>
+			<p class="jogo_perfil">Jogo</p>
+			</div>
+			<div class="ao_vivo display_in"></div>
+			<p class="display_in ao_vivo_num">7,7 mil</p>
+		</div><!--perfil_side-->
+
+		<div class="perfil_side">
+			<div class="img_perfil display_in"></div>
+			<div class="display_in">
+			<p class="nome_perfil">Usuario</p>
+			<p class="jogo_perfil">Jogo</p>
+			</div>
+			<div class="ao_vivo display_in"></div>
+			<p class="display_in ao_vivo_num">7,7 mil</p>
+		</div><!--perfil_side-->
+
+		<div class="perfil_side">
+			<div class="img_perfil display_in"></div>
+			<div class="display_in">
+			<p class="nome_perfil">Usuario</p>
+			<p class="jogo_perfil">Jogo</p>
+			</div>
+			<div class="ao_vivo display_in"></div>
+			<p class="display_in ao_vivo_num">7,7 mil</p>
+		</div><!--perfil_side-->
+
+		<div class="perfil_side">
+			<div class="img_perfil display_in"></div>
+			<div class="display_in">
+			<p class="nome_perfil">Usuario</p>
+			<p class="jogo_perfil">Jogo</p>
+			</div>
+			<div class="ao_vivo display_in"></div>
+			<p class="display_in ao_vivo_num">7,7 mil</p>
+		</div><!--perfil_side-->
+
+		<div class="perfil_side">
+			<div class="img_perfil display_in"></div>
+			<div class="display_in">
+			<p class="nome_perfil">Usuario</p>
+			<p class="jogo_perfil">Jogo</p>
+			</div>
+			<div class="ao_vivo display_in"></div>
+			<p class="display_in ao_vivo_num">7,7 mil</p>
+		</div><!--perfil_side-->
+	</section><!--sidebar-->
+
+	<section class="video_section display_in">
+		<div class="video position1 display_in"></div>
+		<div class="video  display_in"></div>
+		
+	</section><!--video_section-->
+
 
 </body>
 </html>
