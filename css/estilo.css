@@ -199,17 +199,105 @@ section.video_section .video{
 	width: 750px;
 	height:  300px;
 	background-color:  #ccc;
+	border: 2px solid rgb(220,220,220);
+}
+
+
+section.video_section .altura{
+	position: absolute;
+	top:  80px;
+}
+
+section.video_section .altura2{
+	position:  absolute;
+	top: 105px;
+}
+
+section.video_section .altura3{
+	position:  absolute;
+	top: 125px;	
 }
 
 section.video_section .position1{
 	position: absolute;
 	left:  600px;
-	width: 750px;
+	z-index: 9;
 }
 
 
 section.video_section .position2{
 	position: absolute;
-	background-color: red;
+	width: 700px;
+	height: 250px;
+	
+	left: 560px;
+	z-index: 3;
+}
 
+
+section.video_section .position3{
+	position: absolute;
+	width: 700px;
+	height: 250px;
+
+	left: 685px;
+	z-index: 3;
+}
+
+section.video_section .position4{
+	position: absolute;
+	width: 650px;
+	height: 200px;
+	
+	left: 520px;
+}
+
+section.video_section .position5{
+	position: absolute;
+	width: 650px;
+	height: 200px;
+
+	left: 770px;
+}
+
+section.video_section .btn_mudar{
+	width: 40px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: white;
+	border:  1px solid #ccc;
+}
+
+section.video_section .position_btnMudar{
+	position: absolute;
+	top: 200px;
+	left: 400px;
+}
+
+
+section.video_section .position_btnMudar2{
+	position: absolute;
+	top: 200px;
+	right: 120px;
+}
+
+section.video_section .video_p{
+	background-color: white;
+}
+
+section.video_section .video_tela{
+	width: 525px;
+	height:  300px;
+	background-color: rgb(100, 100, 100);
+}
+
+section.video_section .video_tela p{
+	margin: 10px;
+	color:  white;
+	background-color: red;
+	border-radius:  5px;
+	display:  inline-block;
+	font-size: 13px;
+	padding: 2px 4px;
+	font-weight: bold;
 }

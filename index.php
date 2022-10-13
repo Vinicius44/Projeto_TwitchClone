@@ -99,9 +99,21 @@
 	</section><!--sidebar-->
 
 	<section class="video_section display_in">
-		<div class="video position1 display_in"></div>
-		<div class="video  display_in"></div>
-		
+		<div class="btn_mudar position_btnMudar"></div>
+		<div class="video video_p position1 altura display_in">
+			<div class="video_tela display_in">
+				<p>AO VIVO</p>
+			</div>
+
+			<div class="img_perfil_principal" style="width: 30px; height: 30px; background-color: #ccc"></div>
+
+		</div>
+		<div class="video  position2  altura2 display_in"></div>
+		<div class="video  position3  altura2 display_in"></div>
+		<div class="video  position4  altura3 display_in"></div>
+		<div class="video  position5  altura3 display_in"></div>
+		<div class="btn_mudar position_btnMudar2"></div>
+
 	</section><!--video_section-->
 
 
