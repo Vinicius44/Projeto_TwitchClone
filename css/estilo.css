@@ -288,7 +288,9 @@ section.video_section .video_p{
 section.video_section .video_tela{
 	width: 525px;
 	height:  300px;
-	background-color: rgb(100, 100, 100);
+	background-color: rgb(50, 50, 50);
+	margin-top:  0px;
+	vertical-align: top;
 }
 
 section.video_section .video_tela p{
@@ -300,4 +302,55 @@ section.video_section .video_tela p{
 	font-size: 13px;
 	padding: 2px 4px;
 	font-weight: bold;
+}
+
+section.video_section .img_perfil_principal{
+	width:  60px;
+	height: 60px;
+	border-radius: 60px;
+	background-color: #ccc;
+	margin: 10px;
+	
+}
+
+section.video_section .perfil_principal{
+	vertical-align: top;
+	margin-top: 10px;
+}
+
+section.video_section .perfil_principal p:nth-child(1){ 
+
+	font-size: 14px;
+	font-weight: bold;
+	color: #5B2EC9;
+	margin-bottom: 3px;
+}
+
+
+section.video_section .perfil_principal p:nth-child(2){ 
+
+	font-size: 14px;
+	color: #5B2EC9;
+	margin-bottom: 3px;
+}
+
+section.video_section .perfil_principal p:nth-child(3){ 
+
+	font-size: 14px;
+	color: black;
+	margin-bottom: 3px;
+}
+
+
+.tag{ 
+	margin-left:-70px; 
+	margin-top: 15px;
+}
+
+section.video_section .perfil_principal p:nth-child(5){ 
+
+	font-size: 14px;
+	color: black;
+	margin-bottom: 3px;
+	margin:  3px 300px;
 }

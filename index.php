@@ -105,7 +105,19 @@
 				<p>AO VIVO</p>
 			</div>
 
-			<div class="img_perfil_principal" style="width: 30px; height: 30px; background-color: #ccc"></div>
+			<div class="img_perfil_principal display_in"></div>
+			<div class="perfil_principal display_in">
+				<p>Nome</p>
+				<p>Jogo</p>
+				<p>113 espectadores</p>
+				<p class="display_in" style="margin-left:-75px; margin-top: 15px; padding: 2px 10px; background-color: rgb(230, 230, 230); font-size: 12px; border-radius: 20px; color: rgb(50, 50, 50);font-weight: bold;">Português</p>
+				<p style="margin-left:-70px; margin-top: 20px; font-size: 14px; width: 180px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat...</p>
+			</div><!--perfil_principal-->
+
+			
 
 		</div>
 		<div class="video  position2  altura2 display_in"></div>
