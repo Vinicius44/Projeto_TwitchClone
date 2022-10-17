@@ -130,6 +130,53 @@
 
 	<section class="videos_gostar display_in">
 		<h3>Canais ao vivo que achamos que vai gostar</h3>
+		
+
+		<div style="margin-right: 6px" class="container_video display_in">
+			<div class="video_pequeno"></div>
+			<div style="width: 40px; height: 40px; vertical-align: top; margin-top: 10px;" class="img_perfil display_in"></div>
+			<div style="margin-left: 10px;" class="display_in">
+			<p style="margin-top: 5px ; margin-bottom: 5px;font-weight: bold;">Nome da live</p>
+			<p style=" font-weight: normal;" class="nome_perfil">Usuario</p>
+			<p style="margin-bottom: 6px;"class="jogo_perfil">Jogo</p>
+			<p  class="display_in"style=" padding: 2px 10px; background-color: rgb(230, 230, 230); font-size: 12px; border-radius: 20px; color: rgb(50, 50, 50);font-weight: bold;">Português</p>
+			</div>
+		</div><!--container_video-->
+
+		<div style="margin-right: 6px" class="container_video display_in">
+			<div class="video_pequeno"></div>
+			<div style="width: 40px; height: 40px; vertical-align: top; margin-top: 10px;" class="img_perfil display_in"></div>
+			<div style="margin-left: 10px;" class="display_in">
+			<p style="margin-top: 5px ; margin-bottom: 5px;font-weight: bold;">Nome da live</p>
+			<p style=" font-weight: normal;" class="nome_perfil">Usuario</p>
+			<p style="margin-bottom: 6px;"class="jogo_perfil">Jogo</p>
+			<p  class="display_in"style=" padding: 2px 10px; background-color: rgb(230, 230, 230); font-size: 12px; border-radius: 20px; color: rgb(50, 50, 50);font-weight: bold;">Português</p>
+			</div>
+		</div><!--container_video-->
+
+		<div style="margin-right: 6px" class="container_video display_in">
+			<div class="video_pequeno"></div>
+			<div style="width: 40px; height: 40px; vertical-align: top; margin-top: 10px;" class="img_perfil display_in"></div>
+			<div style="margin-left: 10px;" class="display_in">
+			<p style="margin-top: 5px ; margin-bottom: 5px;font-weight: bold;">Nome da live</p>
+			<p style=" font-weight: normal;" class="nome_perfil">Usuario</p>
+			<p style="margin-bottom: 6px;"class="jogo_perfil">Jogo</p>
+			<p  class="display_in"style=" padding: 2px 10px; background-color: rgb(230, 230, 230); font-size: 12px; border-radius: 20px; color: rgb(50, 50, 50);font-weight: bold;">Português</p>
+			</div>
+		</div><!--container_video-->
+
+		<div style="margin-right: 6px" class="container_video display_in">
+			<div class="video_pequeno"></div>
+			<div style="width: 40px; height: 40px; vertical-align: top; margin-top: 10px;" class="img_perfil display_in"></div>
+			<div style="margin-left: 10px;" class="display_in">
+			<p style="margin-top: 5px ; margin-bottom: 5px;font-weight: bold;">Nome da live</p>
+			<p style=" font-weight: normal;" class="nome_perfil">Usuario</p>
+			<p style="margin-bottom: 6px;"class="jogo_perfil">Jogo</p>
+			<p  class="display_in"style=" padding: 2px 10px; background-color: rgb(230, 230, 230); font-size: 12px; border-radius: 20px; color: rgb(50, 50, 50);font-weight: bold;">Português</p>
+			</div>
+		</div><!--container_video-->
+
+		
 	</section>
 
 

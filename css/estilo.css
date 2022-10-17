@@ -149,7 +149,7 @@ section.sidebar .perfil_side{
 	
 }
 
-section.sidebar .perfil_side .img_perfil{
+ .img_perfil{
 	width: 40px;
 	height: 40px;
 	background-color: #ccc;
@@ -164,7 +164,7 @@ section.sidebar .perfil_side div:nth-child(2){
 
 }
 
-section.sidebar .perfil_side .nome_perfil{
+.nome_perfil{
 	font-weight: bold;
 	font-size: 15px;
 	vertical-align: top;
@@ -172,7 +172,7 @@ section.sidebar .perfil_side .nome_perfil{
 	color:  rgb(80,80,80);
 }
 
-section.sidebar .perfil_side .jogo_perfil{
+.jogo_perfil{
 	color:  rgb(130,130,130);
 	font-size: 15px;
 
@@ -200,8 +200,8 @@ section.sidebar .perfil_side .ao_vivo_num{
 section.video_section .video{
 	width: 750px;
 	height:  300px;
-	background-color:  #ccc;
-	border: 2px solid rgb(220,220,220);
+	background-color: rgb(50, 50, 50);
+	border: 1px solid rgb(220,220,220);
 	margin-bottom: 30px;
 }
 
@@ -367,11 +367,20 @@ section.video_section .perfil_principal p:nth-child(5){
 }
 
 section.videos_gostar{
-	padding:  100px;
-
+	position: absolute;
+	top: 445px;
+	left:  275px;
 }
+
+
 
 section.videos_gostar h3{ 
-	margin-top: 20px;
+	font-size:  18px;
+	margin-bottom: 15px;
 }
 
+section.videos_gostar div.video_pequeno{
+	width: 330px;
+	height:  170px;
+	background-color:  #ccc;
+}
